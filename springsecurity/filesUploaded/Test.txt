@@ -1,0 +1,11 @@
+Install cli:
+	npm install -g @angular/cli
+		here -g is for global
+
+Create a workspace and project
+cd to workspace
+ng new my-first-app
+Enter twice
+
+Start the server usig: ng serve
+		
